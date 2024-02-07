@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 9847ac2526455ba47a23919680950a37
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: cd7011f60ee4cfa45ae2d0543cb20e07
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene.unity
+    guid: 5555fc05c51faa442a3c91da710e3ffe
+  - enabled: 1
+    path: Assets/Scenes/GravityMode.unity
+    guid: 9f4a565df31fd3e42aebc1f7d562f32d
+  m_configObjects: {}
